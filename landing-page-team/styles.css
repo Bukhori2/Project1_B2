@@ -353,7 +353,7 @@ h1 .highlight-blue {
   width: 24px;
   height: 24px;
   object-fit: contain;
-  filter: brightness(0) invert(0.8); Ikon abu-abu terang
+  filter: brightness(0) invert(0.8); /*Ikon abu-abu terang*/
 }
 
 .member-sosial a:hover img {
